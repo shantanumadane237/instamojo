@@ -1,0 +1,25 @@
+{
+  "name": "instamojomodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanumadane237/instamojo.git"
+  },
+  "author": "Shantanu Madane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantanumadane237/instamojo/issues"
+  },
+  "homepage": "https://github.com/shantanumadane237/instamojo#readme"
+}
